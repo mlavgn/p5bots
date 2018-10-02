@@ -52,7 +52,7 @@ Now that we have all the parts we need, we can start writing our code. Let's ope
   </html>
 ```
 
-Then we need to tell this file about all the screipt files we need: `p5.js` and `p5.bots.js`, plus a pointer to the socket.io CDN. Socket.io is how we send messages between the two parts of p5.bots. A CDN is location on the internet where this is kept. Since so many people use it, it can make more sense to point people to this one instead of having our own copy.
+Then we need to tell this file about all the script files we need: `p5.js` and `p5.bots.js`, plus a pointer to the socket.io CDN. Socket.io is how we send messages between the two parts of p5.bots. A CDN is location on the internet where this is kept. Since so many people use it, it can make more sense to point people to this one instead of having our own copy.
 
 We will also tell it about our sketch file.
 
